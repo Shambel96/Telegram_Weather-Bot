@@ -64,4 +64,8 @@ Start your bot on Telegram (search for your bot username).
 
 - Optionally, the bot also provides an AI-generated explanation if the user requests it (there is an inline button show Explain it).
 
-### Live demo link:
+### Generally if the user enter incorrect city name
+
+- The bot will respond with: City not found. Please try again.
+
+### Live demo link: https://www.awesomescreenshot.com/video/42044709?key=71d9a7d5f1210c0772dc7eea6ddee373
