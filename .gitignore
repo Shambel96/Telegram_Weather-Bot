@@ -1,0 +1,4 @@
+# Ignore huge files and directories
+node_modules/
+package-lock.json
+.env

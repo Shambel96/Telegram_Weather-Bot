@@ -1,0 +1,27 @@
+{
+  "name": "telegram_weather-bot",
+  "version": "1.0.0",
+  "description": "Simple telegram weather bot.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shambel96/Telegram_Weather-Bot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shambel96/Telegram_Weather-Bot/issues"
+  },
+  "homepage": "https://github.com/Shambel96/Telegram_Weather-Bot#readme",
+  "dependencies": {
+    "@google/generative-ai": "^0.24.1",
+    "dotenv": "^17.2.0",
+    "node-fetch": "^3.3.2",
+    "node-telegram-bot-api": "^0.66.0",
+    "openai": "^5.9.0"
+  }
+}
